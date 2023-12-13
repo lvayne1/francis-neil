@@ -441,3 +441,9 @@ nav span:hover {
     width: 100%;
 }
 
+.backlogos a > * {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid white;
+}
